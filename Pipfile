@@ -10,7 +10,7 @@ aiofiles = "~=0.4.0"
 uvicorn = "~=0.8.6"
 gunicorn = "~=19.9.0"
 # network
-aiohttp = "~=3.5.4"
+aiohttp = "~=3.7.4"
 requests = "~=2.22.0"
 boto3 = "~=1.9.209"
 # logging
